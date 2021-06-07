@@ -7,7 +7,9 @@ description: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
   lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget
   tincidunt.
-default_thumbnail_image: images/plant1.jpg
+default_thumbnail_image: >-
+  images/mockup-of-a-woman-with-long-hair-wearing-a-pullover-hoodie-33882
+  (1).png
 default_original_image: images/plant1-lg.jpg
 featured: true
 order: 1
